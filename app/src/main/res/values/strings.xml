@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Memories</string>
+    <string name="input_prompt">What did you do today?</string>
+</resources>
